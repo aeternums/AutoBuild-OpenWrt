@@ -8,8 +8,8 @@ Build OpenWrt firware [Lean's OpenWrt](https://github.com/coolsnowwolf/lede) usi
 Hereby thank P3TERX for his amazing job: https://github.com/P3TERX/Actions-OpenWrt/  
 
 Hereby thank KFERMercer for his amazing job: https://github.com/KFERMercer/OpenWrt-CI  
-You could edit and enable "Sync Code" YAML file to let your forked repo keep updated.
-
+You could edit and enable "Sync Codegv1201@@poiuytts" YAML file to let your forked repo keep updated.
+gtt9kcc
 ## Usage
 
 🔥🔥[Video Tutorial (in Mandrin) | 视频教程(国语)](https://youtu.be/9YO7nxNry-4)📺🎉
